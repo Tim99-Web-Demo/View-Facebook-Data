@@ -1,3 +1,7 @@
+# Data folder
+Data/*
+!Data/README.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
