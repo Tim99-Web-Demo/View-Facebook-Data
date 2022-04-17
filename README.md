@@ -1,5 +1,5 @@
-# View Facebook Data
-Show personal data downloaded from Facebook
+<h1 align='center'>View Facebook Data</h1>
+<p align='center'>Show personal data downloaded from Facebook</p>
 
 # Requirements
 - Python 3
